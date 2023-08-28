@@ -1,11 +1,12 @@
 # Textual Analysis CLI
 
-An command-line interface (CLI) application for scraping and performing textual analysis on website content.
+An command-line interface (CLI) application for scraping and performing textual analysis on website content, or on local files.
 
 ## Features
 
 - Web scraping capabilities to extract content from given URLs.
-- Textual analysis, including word frequency, average word length, total sentences, and sentiment analysis.
+- Supports local files.
+- Textual analysis, including word frequency, average word length, total sentences, and sentiment analysis, and more.
 - Supports multiple top counts to display frequent words and letters.
 - Verbose mode for detailed data.
 - User-friendly command-line options and parameters.
